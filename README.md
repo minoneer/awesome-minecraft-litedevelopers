@@ -201,6 +201,7 @@ _Plugins for managing and generating world regions._
 - [Multiverse-Core](https://github.com/Multiverse/Multiverse-Core) - The original Bukkit Multi-World Plugin.
 - [PlotSquared](https://github.com/IntellectualSites/PlotSquared) - Plot world generator and management plugin with support for schematics.
 - [Prism-Bukkit](https://github.com/AddstarMC/Prism-Bukkit) - Prism is a rollback/grief management tool for Bukkit.
+- [uSkyBlock](https://uskyblock.org) - Skyblock plugin for Paper and Spigot with challenges, island levels and parties.
 - [WorldGuard](https://github.com/enginehub/worldguard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 - [Worlds](https://github.com/TheNextLvl-net/Worlds) - A world management system for modern paper servers, supporting only the latest features and mechanics.
 
